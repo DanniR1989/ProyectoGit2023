@@ -1,0 +1,14 @@
+C:\Users\isaia\OneDrive\Documentos\ITICS PROGRAMCION DE PC\Control de Versiones\ProyectoGit2023\bin\Debug\net7.0\ProyectoGit2023.exe
+C:\Users\isaia\OneDrive\Documentos\ITICS PROGRAMCION DE PC\Control de Versiones\ProyectoGit2023\bin\Debug\net7.0\ProyectoGit2023.deps.json
+C:\Users\isaia\OneDrive\Documentos\ITICS PROGRAMCION DE PC\Control de Versiones\ProyectoGit2023\bin\Debug\net7.0\ProyectoGit2023.runtimeconfig.json
+C:\Users\isaia\OneDrive\Documentos\ITICS PROGRAMCION DE PC\Control de Versiones\ProyectoGit2023\bin\Debug\net7.0\ProyectoGit2023.dll
+C:\Users\isaia\OneDrive\Documentos\ITICS PROGRAMCION DE PC\Control de Versiones\ProyectoGit2023\bin\Debug\net7.0\ProyectoGit2023.pdb
+C:\Users\isaia\OneDrive\Documentos\ITICS PROGRAMCION DE PC\Control de Versiones\ProyectoGit2023\obj\Debug\net7.0\ProyectoGit2023.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isaia\OneDrive\Documentos\ITICS PROGRAMCION DE PC\Control de Versiones\ProyectoGit2023\obj\Debug\net7.0\ProyectoGit2023.AssemblyInfoInputs.cache
+C:\Users\isaia\OneDrive\Documentos\ITICS PROGRAMCION DE PC\Control de Versiones\ProyectoGit2023\obj\Debug\net7.0\ProyectoGit2023.AssemblyInfo.cs
+C:\Users\isaia\OneDrive\Documentos\ITICS PROGRAMCION DE PC\Control de Versiones\ProyectoGit2023\obj\Debug\net7.0\ProyectoGit2023.csproj.CoreCompileInputs.cache
+C:\Users\isaia\OneDrive\Documentos\ITICS PROGRAMCION DE PC\Control de Versiones\ProyectoGit2023\obj\Debug\net7.0\ProyectoGit2023.dll
+C:\Users\isaia\OneDrive\Documentos\ITICS PROGRAMCION DE PC\Control de Versiones\ProyectoGit2023\obj\Debug\net7.0\refint\ProyectoGit2023.dll
+C:\Users\isaia\OneDrive\Documentos\ITICS PROGRAMCION DE PC\Control de Versiones\ProyectoGit2023\obj\Debug\net7.0\ProyectoGit2023.pdb
+C:\Users\isaia\OneDrive\Documentos\ITICS PROGRAMCION DE PC\Control de Versiones\ProyectoGit2023\obj\Debug\net7.0\ProyectoGit2023.genruntimeconfig.cache
+C:\Users\isaia\OneDrive\Documentos\ITICS PROGRAMCION DE PC\Control de Versiones\ProyectoGit2023\obj\Debug\net7.0\ref\ProyectoGit2023.dll
