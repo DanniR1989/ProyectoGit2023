@@ -14,11 +14,12 @@ namespace ProyectoGit2023
         {
 
         }
-        public Gerente(string tipoEmpleado, string nombre, double salario)
+        public Gerente(string tipoEmpleado, string nombre, double salario, string puesto, string genero)
         {
             Salario = salario;
             Nombre = nombre;
             TipoEmpleado = tipoEmpleado;
+            
         }
         public override double CalcularSalario()
         {
