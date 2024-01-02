@@ -33,9 +33,18 @@
                             Console.WriteLine("Ingrese el puesto del Gerente: ");
                             string Puesto=Console.ReadLine();
                             Gerente gerente = new Gerente("Gerente: ",Nombre, Salario, Genero, Puesto);
+                            Console.WriteLine("Hemos creado un nuevo Gerente");
+                            Console.WriteLine("Deseas crear un nuevo empleado?");
                             break;
                         case '2':
-                            Console.WriteLine();
+                            
+                            foreach (var ger in Gerente)
+                            {
+                                Console.Write(ger.Nombre);
+                                Console.WriteLine(ger.TipoEmpleado);
+                                Console.WriteLine(ger.PuestoGerente);
+                                Console.WriteLine(ger.CalcularSalario());
+                            }
                             break;
                         default:
                             Console.WriteLine("Tipo Invalido");
